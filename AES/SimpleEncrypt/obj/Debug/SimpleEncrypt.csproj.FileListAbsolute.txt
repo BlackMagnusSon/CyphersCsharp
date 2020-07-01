@@ -1,0 +1,20 @@
+D:\VS Projects\_temp\SimpleEncrypt\bin\Debug\SimpleEncrypt.exe.config
+D:\VS Projects\_temp\SimpleEncrypt\bin\Debug\SimpleEncrypt.exe
+D:\VS Projects\_temp\SimpleEncrypt\bin\Debug\SimpleEncrypt.pdb
+D:\VS Projects\_temp\SimpleEncrypt\obj\Debug\SimpleEncrypt.Form1.resources
+D:\VS Projects\_temp\SimpleEncrypt\obj\Debug\SimpleEncrypt.Properties.Resources.resources
+D:\VS Projects\_temp\SimpleEncrypt\obj\Debug\SimpleEncrypt.csproj.GenerateResource.Cache
+D:\VS Projects\_temp\SimpleEncrypt\obj\Debug\SimpleEncrypt.exe
+D:\VS Projects\_temp\SimpleEncrypt\obj\Debug\SimpleEncrypt.pdb
+D:\VS Projects\_temp\SimpleEncrypt\obj\Debug\SimpleEncrypt.csprojAssemblyReference.cache
+D:\VS Projects\_temp\SimpleEncrypt\obj\Debug\SimpleEncrypt.csproj.CoreCompileInputs.cache
+C:\Users\ZevNull\Desktop\Крипта\Лаба 3 AES\SimpleEncrypt\bin\Debug\SimpleEncrypt.exe.config
+C:\Users\ZevNull\Desktop\Крипта\Лаба 3 AES\SimpleEncrypt\bin\Debug\SimpleEncrypt.exe
+C:\Users\ZevNull\Desktop\Крипта\Лаба 3 AES\SimpleEncrypt\bin\Debug\SimpleEncrypt.pdb
+C:\Users\ZevNull\Desktop\Крипта\Лаба 3 AES\SimpleEncrypt\obj\Debug\SimpleEncrypt.csprojAssemblyReference.cache
+C:\Users\ZevNull\Desktop\Крипта\Лаба 3 AES\SimpleEncrypt\obj\Debug\SimpleEncrypt.Form1.resources
+C:\Users\ZevNull\Desktop\Крипта\Лаба 3 AES\SimpleEncrypt\obj\Debug\SimpleEncrypt.Properties.Resources.resources
+C:\Users\ZevNull\Desktop\Крипта\Лаба 3 AES\SimpleEncrypt\obj\Debug\SimpleEncrypt.csproj.GenerateResource.cache
+C:\Users\ZevNull\Desktop\Крипта\Лаба 3 AES\SimpleEncrypt\obj\Debug\SimpleEncrypt.csproj.CoreCompileInputs.cache
+C:\Users\ZevNull\Desktop\Крипта\Лаба 3 AES\SimpleEncrypt\obj\Debug\SimpleEncrypt.exe
+C:\Users\ZevNull\Desktop\Крипта\Лаба 3 AES\SimpleEncrypt\obj\Debug\SimpleEncrypt.pdb
